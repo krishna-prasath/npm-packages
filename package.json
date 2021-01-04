@@ -1,0 +1,19 @@
+{
+  "name": "hamam-soap",
+  "version": "1.0.0",
+  "description": "Testing via github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishna-prasath/npm-packages.git"
+  },
+  "author": "Krishna Prasath Bharath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishna-prasath/npm-packages/issues"
+  },
+  "homepage": "https://github.com/krishna-prasath/npm-packages#readme"
+}
